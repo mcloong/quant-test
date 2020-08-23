@@ -1,0 +1,28 @@
+[rb]
+runable=true
+[stg_grid]
+runable = true
+high_level2 = 3580
+high_level1 = 3560
+Low_level1 = 3490
+Low_level2 = 3470
+[stg_avg]
+runable=true
+[stg_key_price]
+runable=false
+key_price=3500
+[killer_tank]
+runable=true
+up_count=60
+down_count=60
+trade_dir=BuySell
+[price_direct]
+runable=true
+hh=3565
+ll=3505
+trade_dir=BuySell
+[killer_rush]
+runable=false
+hh=3590
+ll=3490
+trade_dir=Buy
